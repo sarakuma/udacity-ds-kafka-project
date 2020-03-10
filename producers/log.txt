@@ -1,0 +1,354 @@
+2020-02-08 18:50:02,188 models.producer INFO     cta_trains_arrival created
+2020-02-08 18:50:02,195 models.producer INFO     cta_turnstiles created
+2020-02-08 18:50:02,426 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = BL000
+2020-02-08 18:50:02,436 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = BL001
+2020-02-08 18:50:02,445 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = BL002
+2020-02-08 18:50:02,457 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = BL003
+2020-02-08 18:50:02,473 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = BL004
+2020-02-08 18:50:02,482 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = BL005
+2020-02-08 18:50:02,493 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = BL006
+2020-02-08 18:50:02,502 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = BL007
+2020-02-08 18:50:02,511 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = BL008
+2020-02-08 18:50:02,530 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = BL009
+2020-02-08 18:50:02,827 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = RL000
+2020-02-08 18:50:02,836 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = RL001
+2020-02-08 18:50:02,845 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = RL002
+2020-02-08 18:50:02,854 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = RL003
+2020-02-08 18:50:02,861 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = RL004
+2020-02-08 18:50:02,871 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = RL005
+2020-02-08 18:50:02,878 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = RL006
+2020-02-08 18:50:02,885 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = RL007
+2020-02-08 18:50:02,892 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = RL008
+2020-02-08 18:50:02,899 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = RL009
+2020-02-08 18:50:03,094 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = GL000
+2020-02-08 18:50:03,108 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = GL001
+2020-02-08 18:50:03,117 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = GL002
+2020-02-08 18:50:03,124 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = GL003
+2020-02-08 18:50:03,134 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = GL004
+2020-02-08 18:50:03,152 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = GL005
+2020-02-08 18:50:03,161 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = GL006
+2020-02-08 18:50:03,168 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = GL007
+2020-02-08 18:50:03,177 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = GL008
+2020-02-08 18:50:03,186 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 None train = GL009
+2020-02-08 18:50:03,186 __main__     INFO     Beginning simulation, press Ctrl+C to exit at any time
+2020-02-08 18:50:03,186 __main__     INFO     loading kafka connect jdbc source connector
+2020-02-08 18:50:03,200 __main__     INFO     beginning cta train simulation
+2020-02-08 18:50:03,207 models.producer INFO     current_weather_cast created
+2020-02-08 18:50:03,225 models.weather INFO     weather kafka proxy integration incomplete - skipping
+2020-02-08 18:50:03,225 models.weather ERROR    {
+  "error_code": 500,
+  "message": "Internal Server Error"
+}
+2020-02-08 18:50:03,228 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,230 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,232 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,234 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,237 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,239 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,241 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,242 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,244 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,246 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,248 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,250 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,252 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,254 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,255 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,257 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,259 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,260 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,261 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,262 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,264 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,265 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,266 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,267 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,269 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,271 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,273 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,275 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,276 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,278 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,279 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,281 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,289 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40890 train = BL000
+2020-02-08 18:50:03,298 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40550 train = BL001
+2020-02-08 18:50:03,304 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40590 train = BL002
+2020-02-08 18:50:03,310 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40790 train = BL003
+2020-02-08 18:50:03,320 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40810 train = BL004
+2020-02-08 18:50:03,329 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40180 train = BL005
+2020-02-08 18:50:03,338 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40250 train = BL006
+2020-02-08 18:50:03,350 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41340 train = BL007
+2020-02-08 18:50:03,361 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41410 train = BL008
+2020-02-08 18:50:03,375 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40060 train = BL009
+2020-02-08 18:50:03,380 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,383 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,385 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,387 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,389 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,391 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,393 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,395 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,396 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,398 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,401 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,403 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,405 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,406 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,408 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,410 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,412 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,413 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,415 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,417 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,418 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,420 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,422 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,424 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,426 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,428 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,430 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,431 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,433 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,435 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,437 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,438 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,439 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,441 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,448 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40900 train = RL000
+2020-02-08 18:50:03,463 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41380 train = RL001
+2020-02-08 18:50:03,476 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41420 train = RL002
+2020-02-08 18:50:03,483 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40330 train = RL003
+2020-02-08 18:50:03,492 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41000 train = RL004
+2020-02-08 18:50:03,502 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40240 train = RL005
+2020-02-08 18:50:03,510 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40240 train = RL006
+2020-02-08 18:50:03,519 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41000 train = RL007
+2020-02-08 18:50:03,528 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40330 train = RL008
+2020-02-08 18:50:03,535 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41420 train = RL009
+2020-02-08 18:50:03,537 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,538 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,540 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,541 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,543 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,544 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,546 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,547 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,548 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,549 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,551 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,552 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,554 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,555 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,556 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,557 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,559 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,560 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,562 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,563 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,564 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,566 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,568 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,569 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,570 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,571 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,572 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,574 models.turnstile INFO     turnstile kafka integration incomplete - skipping
+2020-02-08 18:50:03,585 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40020 train = GL000
+2020-02-08 18:50:03,592 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40700 train = GL001
+2020-02-08 18:50:03,601 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41360 train = GL002
+2020-02-08 18:50:03,609 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40260 train = GL003
+2020-02-08 18:50:03,617 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41120 train = GL004
+2020-02-08 18:50:03,625 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40510 train = GL005
+2020-02-08 18:50:03,635 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40130 train = GL006
+2020-02-08 18:50:03,643 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41690 train = GL007
+2020-02-08 18:50:03,651 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 40380 train = GL008
+2020-02-08 18:50:03,659 models.station INFO     arrival kafka integration incomplete - skipping Incompatible Avro schema:409 41070 train = GL009
+2020-02-08 18:50:04,630 __main__     INFO     Shutting down
+2020-02-08 18:50:04,630 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,631 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,632 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,633 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,633 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,633 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,633 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,633 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,633 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,633 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,634 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,635 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,636 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,637 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,638 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,639 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
+2020-02-08 18:50:04,640 models.producer INFO     producer closed successfully
